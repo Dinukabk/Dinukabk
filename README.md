@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MernStack](https://github.com/Dinukabk/MernCrud.git)
+- 🔭 I’m currently working on [Artificial Interligence](https://github.com/Dinukabk/MernCrud.git)
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Self Learning Models**
 
 - 👨‍💻 All of my projects are available at [https://dinukabk.github.io/Dinuka2021/](https://dinukabk.github.io/Dinuka2021/)
 
