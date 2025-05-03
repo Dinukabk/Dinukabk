@@ -9,8 +9,10 @@
 ### 🔥 Featured Projects
 
 - 🚀 [MERN CRUD App](https://github.com/Dinukabk/MernCrud) – A full-stack MERN application with advanced CRUD and authentication.
-- 🤖 [AI voice Assitant ]([https://github.com/Dinukabk/AI-Voice-Asisitence-Python) – AI Voice Asisitence powered by NLP and deep learning.
-- 🌐 [Portfolio Website](https://dinukabashana.vercel.app) – My personal portfolio built with HTML/CSS/JS and animations.
+- 🤖 [AI Voice Assistant](https://github.com/Dinukabk/AI-Voice-Assistance-Python) – A Python-based voice assistant using speech-to-text and text-to-speech.
+- 🌐 [DBMart.lk](https://github.com/Dinukabk/DBMart.lk) – A full-stack delivery platform built with Django and React.
+- 🏨 [HottelBB](https://github.com/Dinukabk/HottelBB) – A hotel booking management system using Python and Django.
+- 📱 [App](https://github.com/Dinukabk/app) – A mobile or general-purpose app.
 
 ---
 
@@ -44,8 +46,10 @@
 ---
 
 ### 📌 Pinned Projects
-[![MERN CRUD](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=MernCrud&theme=radical)](https://github.com/Dinukabk/MernCrud)
-[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=AI-voice-Assistance-Python&theme=radical)](https://github.com/Dinukabk/AI-Voice-Asisitence-Python)
+[![DBMart.lk](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=DBMart.lk&theme=radical)](https://github.com/Dinukabk/DBMart.lk)
+[![AI Voice Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=AI-Voice-Assistance-Python&theme=radical)](https://github.com/Dinukabk/AI-Voice-Assistance-Python)
+[![HottelBB](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=HottelBB&theme=radical)](https://github.com/Dinukabk/HottelBB)
+[![App](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=app&theme=radical)](https://github.com/Dinukabk/app)
 
 ---
 
