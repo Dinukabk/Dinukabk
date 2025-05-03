@@ -10,7 +10,7 @@
 
 - 🚀 [MERN CRUD App](https://github.com/Dinukabk/MernCrud) – A full-stack MERN application with advanced CRUD and authentication.
 - 🤖 [AI Chatbot](https://github.com/Dinukabk/AI-Chatbot) – A chatbot powered by NLP and deep learning.
-- 🌐 [Portfolio Website](https://dinukabk.github.io/Dinuka2021/) – My personal portfolio built with HTML/CSS/JS and animations.
+- 🌐 [Portfolio Website](https://dinukabashana.vercel.app) – My personal portfolio built with HTML/CSS/JS and animations.
 
 ---
 
