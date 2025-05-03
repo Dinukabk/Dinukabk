@@ -45,7 +45,7 @@
 
 ### 📌 Pinned Projects
 [![MERN CRUD](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=MernCrud&theme=radical)](https://github.com/Dinukabk/MernCrud)
-[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=AI-Chatbot&theme=radical)](https://github.com/Dinukabk/AI-Voice-Asisitence-Python)
+[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=AI-voice-Assistance-python&theme=radical)](https://github.com/Dinukabk/AI-Voice-Asisitence-Python)
 
 ---
 
