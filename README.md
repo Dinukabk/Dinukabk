@@ -9,7 +9,7 @@
 ### 🔥 Featured Projects
 
 - 🚀 [MERN CRUD App](https://github.com/Dinukabk/MernCrud) – A full-stack MERN application with advanced CRUD and authentication.
-- 🤖 [AI Chatbot](https://github.com/Dinukabk/AI-Chatbot) – A chatbot powered by NLP and deep learning.
+- 🤖 [AI voice Assitant ]([https://github.com/Dinukabk/AI-Voice-Asisitence-Python) – AI Voice Asisitence powered by NLP and deep learning.
 - 🌐 [Portfolio Website](https://dinukabashana.vercel.app) – My personal portfolio built with HTML/CSS/JS and animations.
 
 ---
@@ -45,7 +45,7 @@
 
 ### 📌 Pinned Projects
 [![MERN CRUD](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=MernCrud&theme=radical)](https://github.com/Dinukabk/MernCrud)
-[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=AI-Chatbot&theme=radical)](https://github.com/Dinukabk/AI-Chatbot)
+[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Dinukabk&repo=AI-Chatbot&theme=radical)](https://github.com/Dinukabk/AI-Voice-Asisitence-Python)
 
 ---
 
